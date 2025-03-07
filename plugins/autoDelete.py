@@ -1,4 +1,4 @@
-# +++ Made By King [telegram username: @Shidoteshika1] +++
+# +++ Made By King [telegram username: @THEHYBRIDS] +++
 
 #from bot import Bot
 import asyncio
